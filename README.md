@@ -14,7 +14,11 @@ https://gist.github.com/dariol/cf40c6fd8da5749ef9cb5dd1e4d5bd5e
 
 prerequisite asset store plugins: 
 
-SteamVR, Vive Input Utility, OpenCV for Unity
+https://assetstore.unity.com/packages/tools/integration/opencv-for-unity-21088
+
+https://assetstore.unity.com/packages/tools/steamvr-plugin-32647
+
+https://assetstore.unity.com/packages/tools/integration/vive-input-utility-64219
 
 
 optional: any screen/camera shader effect collection on the asset store
