@@ -1,10 +1,7 @@
 # ViveOpenCVExample
 example of using the front facing camera with OpenCV
 
-see article at: https://medium.com/@dariony
-
-
-note: will commit project shortly.... fixing issue with static image for debugging without a HMD/camera.
+see related article at: https://medium.com/@dariony
 
 
 fully working script: 
