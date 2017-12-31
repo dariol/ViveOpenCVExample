@@ -1,12 +1,15 @@
 # ViveOpenCVExample
 example of using the front facing camera with OpenCV
 
-see related article at: https://medium.com/@dariony
-
-
-fully working script: 
+see related article at: https://medium.com/@dariony/augmented-virtuality-119febdc1b17 and the full script referenced in the article here:
 
 https://gist.github.com/dariol/cf40c6fd8da5749ef9cb5dd1e4d5bd5e
+
+
+fully working executable:
+
+https://github.com/dariol/ViveOpenCVExample/releases/tag/demo: 
+
 
 
 prerequisite asset store plugins: 
